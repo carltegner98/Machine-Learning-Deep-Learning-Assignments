@@ -14,7 +14,9 @@ Implement a clustering algorithm selected from the course lectures on chosen col
 Apply PCA to the Olivetti faces dataset to preserve 99% of the variance, modify some images with noise (rotate, flip, darken), and compare the reconstruction errors.
 
 
+
 **Assignment 2**
+
 **Part 1: SVM and Random Forest**
 Predict whether a user will click on an advertisement based on the number of impressions on digital marketing channels using SVM and Random Forest models.
 
